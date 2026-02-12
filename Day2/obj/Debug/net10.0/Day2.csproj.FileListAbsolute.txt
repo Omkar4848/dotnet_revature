@@ -3,3 +3,13 @@ C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.Asse
 C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.AssemblyInfo.cs
 C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.csproj.CoreCompileInputs.cache
 C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.sourcelink.json
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\bin\Debug\net10.0\Day2.exe
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\bin\Debug\net10.0\Day2.deps.json
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\bin\Debug\net10.0\Day2.runtimeconfig.json
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\bin\Debug\net10.0\Day2.dll
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\bin\Debug\net10.0\Day2.pdb
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.dll
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\refint\Day2.dll
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.pdb
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\Day2.genruntimeconfig.cache
+C:\Users\omkar\OneDrive\Desktop\dotnet revature\Day2\obj\Debug\net10.0\ref\Day2.dll
